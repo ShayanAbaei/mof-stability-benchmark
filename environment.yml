@@ -1,0 +1,13 @@
+name: project15_mof_stability
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - openpyxl
+  - jupyter
+  - notebook
