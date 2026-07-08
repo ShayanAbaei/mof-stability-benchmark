@@ -98,7 +98,3 @@ python scripts/final_revision_tools/make_final_main_figures_STRICT_v4.py
 ## Notes on strict figure generation
 
 The strict figure script intentionally avoids silent fallback behavior. If a required source CSV is missing, it stops rather than switching to a different table. This protects the scientific identity of panels such as the Figure 4 error analysis.
-
-## Citation
-
-If you use this repository, cite the associated manuscript and the external data sources listed in `docs/DATA_PROVENANCE_AND_CITATIONS.md`.
