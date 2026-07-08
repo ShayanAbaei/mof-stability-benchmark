@@ -6,7 +6,7 @@ stability.
 
 This repository accompanies the manuscript:
 
-**How Far Can Simple Descriptors Go? A Chemistry-Led Benchmark for MOF Water and Activation Stability**
+**How Far Can Simple Descriptors Go? A Chemistry-Led Benchmark for MOF Water and Activation Stability.**
 
 The repository is intentionally lightweight. It contains workflow scripts,
 figure/table generation code, environment files, and data-provenance
