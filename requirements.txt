@@ -3,6 +3,7 @@ pandas
 scipy
 scikit-learn
 matplotlib
-openpyxl
-jupyter
-notebook
+seaborn
+lightgbm
+optuna
+joblib

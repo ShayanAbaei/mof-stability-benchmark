@@ -1,0 +1,92 @@
+cff-version: 1.2.0
+title: "MOF stability benchmark"
+message: "If you use this repository, please cite the associated manuscript and the external data sources listed in data_README.md."
+type: software
+authors:
+  - family-names: Abaei
+    given-names: Shayan
+    email: abaei.sh@gmail.com
+abstract: "Workflow scripts and documentation for a descriptor-sufficiency benchmark of MOF water, activation/solvent-removal, and thermal stability."
+repository-code: "https://github.com/ShayanAbaei/mof-stability-benchmark"
+license: MIT
+keywords:
+  - metal-organic frameworks
+  - MOF stability
+  - machine learning
+  - descriptor sufficiency
+  - CoRE MOF
+references:
+  - type: article
+    authors:
+      - family-names: Nandy
+        given-names: Aditya
+      - family-names: Duan
+        given-names: Chenru
+      - family-names: Kulik
+        given-names: Heather J.
+    title: "Using Machine Learning and Data Mining to Leverage Community Knowledge for the Engineering of Stable Metal--Organic Frameworks"
+    journal: "Journal of the American Chemical Society"
+    year: 2021
+    volume: 143
+    issue: 42
+    start: 17535
+    end: 17547
+    doi: "10.1021/jacs.1c07217"
+  - type: article
+    authors:
+      - family-names: Nandy
+        given-names: Aditya
+      - family-names: Terrones
+        given-names: Gianmarco
+      - family-names: Arunachalam
+        given-names: Naveen
+      - family-names: Duan
+        given-names: Chenru
+      - family-names: Kastner
+        given-names: David W.
+      - family-names: Kulik
+        given-names: Heather J.
+    title: "MOFSimplify, machine learning models with extracted stability data of three thousand metal--organic frameworks"
+    journal: "Scientific Data"
+    year: 2022
+    volume: 9
+    doi: "10.1038/s41597-022-01181-0"
+  - type: article
+    authors:
+      - family-names: Terrones
+        given-names: Gianmarco G.
+      - family-names: Huang
+        given-names: Shih-Peng
+      - family-names: Rivera
+        given-names: Matthew P.
+      - family-names: Yue
+        given-names: Shuwen
+      - family-names: Hernandez
+        given-names: Alondra
+      - family-names: Kulik
+        given-names: Heather J.
+    title: "Metal--Organic Framework Stability in Water and Harsh Environments from Data-Driven Models Trained on the Diverse WS24 Data Set"
+    journal: "Journal of the American Chemical Society"
+    year: 2024
+    volume: 146
+    issue: 29
+    start: 20333
+    end: 20348
+    doi: "10.1021/jacs.4c05879"
+  - type: dataset
+    authors:
+      - family-names: Zhao
+        given-names: Guobin
+      - family-names: Brabson
+        given-names: Logan M.
+      - family-names: Chheda
+        given-names: Saumil
+      - family-names: Huang
+        given-names: Jingwen
+      - family-names: Kim
+        given-names: Honghui
+      - family-names: Liu
+        given-names: Kai
+    title: "Computation-Ready Experimental Metal-Organic Framework (CoRE MOF) 2024 Dataset"
+    year: 2025
+    doi: "10.5281/zenodo.15055758"

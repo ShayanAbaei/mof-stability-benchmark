@@ -1,0 +1,226 @@
+path,size_bytes,size_MB,top_folder,extension,recommendation,reason
+02_raw_data/12089-recommended-screening-list.csv,330691,0.315,02_raw_data,.csv,do-not-upload,external dataset CSVs; cite/download externally instead of redistributing unless license checked
+02_raw_data/ASR_FSR_check.csv,217362,0.207,02_raw_data,.csv,do-not-upload,external dataset CSVs; cite/download externally instead of redistributing unless license checked
+02_raw_data/ASR_data_SI_20250204.csv,1081836,1.032,02_raw_data,.csv,do-not-upload,external dataset CSVs; cite/download externally instead of redistributing unless license checked
+02_raw_data/FSR_data_SI_20250204.csv,649288,0.619,02_raw_data,.csv,do-not-upload,external dataset CSVs; cite/download externally instead of redistributing unless license checked
+02_raw_data/ION_data_SI_20250204.csv,55530,0.053,02_raw_data,.csv,do-not-upload,external dataset CSVs; cite/download externally instead of redistributing unless license checked
+03_code/01_audit_scripts/audit_groups_before_ml.py,13653,0.013,03_code,.py,upload,project code / reproducibility scripts
+03_code/02_main_sweep/v14_workflow.py,24568,0.023,03_code,.py,upload,project code / reproducibility scripts
+03_code/03_post_processing/rebuild_results_from_predictions.py,3224,0.003,03_code,.py,upload,project code / reproducibility scripts
+03_code/04_figures/regenerate_all_si_figures.py,29214,0.028,03_code,.py,upload,project code / reproducibility scripts
+03_code/04_figures/regenerate_figures.py,35897,0.034,03_code,.py,upload,project code / reproducibility scripts
+03_code/05_focused_studies/v12_gp_lite.py,14830,0.014,03_code,.py,upload,project code / reproducibility scripts
+04_outputs/FINAL_FOR_REVISION/01_verified_results/v14_results_rebuilt.csv,625462,0.596,04_outputs,.csv,optional-release-not-main,"derived outputs; can be regenerated, include only in Zenodo/release if needed"
+04_outputs/FINAL_FOR_REVISION/02_main_tables/Table_1_dataset_resources.csv,430,0.0,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/02_main_tables/Table_1b_label_provenance.csv,436,0.0,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/02_main_tables/Table_2_group_structure_compact.csv,461,0.0,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/02_main_tables/Table_3_best_regimeD_model_by_split.csv,2895,0.003,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/02_main_tables/Table_4_application_domain_map.csv,922,0.001,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/03_si_tables/Table_S10_thresholded_classification_summary.csv,24938,0.024,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/03_si_tables/Table_S10b_best_thresholded_classification_rows.csv,1774,0.002,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/03_si_tables/Table_S11_matched_pair_consistency.csv,215,0.0,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/03_si_tables/Table_S12_permutation_importance.csv,14200,0.014,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/03_si_tables/Table_S13_failure_cases_top50.csv,36109,0.034,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/03_si_tables/Table_S14_application_coverage_full_summary.csv,1939,0.002,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/03_si_tables/Table_S14b_coverage_category_counts.csv,525,0.001,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/03_si_tables/Table_S14c_coverage_by_top_metal.csv,619,0.001,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/03_si_tables/Table_S15_shortlist_subset_performance.csv,1844,0.002,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/03_si_tables/Table_S15b_chemistry_class_domain_support_from_12089.csv,78730,0.075,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/03_si_tables/Table_S2_label_provenance.csv,436,0.0,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/03_si_tables/Table_S5_full_group_audit.csv,6500,0.006,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/03_si_tables/Table_S6_seed42_heldout_groups.csv,32612,0.031,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/03_si_tables/Table_S8_full_v14_results_seed_level.csv,625462,0.596,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/03_si_tables/Table_S8_full_v14_results_summary.csv,116918,0.112,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/04_main_figures/5.pdf,62703,0.06,04_outputs,.pdf,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/04_main_figures/5.png,382981,0.365,04_outputs,.png,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/04_main_figures/5.svg,106160,0.101,04_outputs,.svg,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/04_main_figures/fig1_reliability_architecture.pdf,54385,0.052,04_outputs,.pdf,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/04_main_figures/fig1_reliability_architecture.png,459773,0.438,04_outputs,.png,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/04_main_figures/fig1_reliability_architecture.svg,98883,0.094,04_outputs,.svg,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/04_main_figures/fig2_descriptor_model_split.pdf,54592,0.052,04_outputs,.pdf,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/04_main_figures/fig2_descriptor_model_split.png,649913,0.62,04_outputs,.png,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/04_main_figures/fig2_descriptor_model_split.svg,142372,0.136,04_outputs,.svg,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/04_main_figures/fig3_label_threshold_overlap.pdf,62455,0.06,04_outputs,.pdf,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/04_main_figures/fig3_label_threshold_overlap.png,593564,0.566,04_outputs,.png,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/04_main_figures/fig3_label_threshold_overlap.svg,141354,0.135,04_outputs,.svg,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/04_main_figures/fig4_error_reliability_map.pdf,49766,0.047,04_outputs,.pdf,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/04_main_figures/fig4_error_reliability_map.png,446946,0.426,04_outputs,.png,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/04_main_figures/fig4_error_reliability_map.svg,105244,0.1,04_outputs,.svg,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/04_main_figures/fig7_importance_screening.pdf,51871,0.049,04_outputs,.pdf,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/04_main_figures/fig7_importance_screening.png,319030,0.304,04_outputs,.png,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/04_main_figures/fig7_importance_screening.svg,81273,0.078,04_outputs,.svg,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/2.pdf,58448,0.056,04_outputs,.pdf,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/2.png,886311,0.845,04_outputs,.png,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/2.svg,103125,0.098,04_outputs,.svg,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/3.pdf,67605,0.064,04_outputs,.pdf,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/3.png,750955,0.716,04_outputs,.png,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/3.svg,80815,0.077,04_outputs,.svg,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/4.pdf,50679,0.048,04_outputs,.pdf,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/4.png,590303,0.563,04_outputs,.png,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/4.svg,58696,0.056,04_outputs,.svg,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/5.pdf,61481,0.059,04_outputs,.pdf,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/5.png,563396,0.537,04_outputs,.png,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/5.svg,45050,0.043,04_outputs,.svg,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/7.pdf,54164,0.052,04_outputs,.pdf,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/7.png,424619,0.405,04_outputs,.png,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/7.svg,29840,0.028,04_outputs,.svg,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/fig2_descriptor_model_split_FINAL_STRICT.pdf,58448,0.056,04_outputs,.pdf,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/fig2_descriptor_model_split_FINAL_STRICT.png,886311,0.845,04_outputs,.png,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/fig2_descriptor_model_split_FINAL_STRICT.svg,103125,0.098,04_outputs,.svg,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/fig3_label_threshold_overlap_FINAL_STRICT.pdf,67581,0.064,04_outputs,.pdf,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/fig3_label_threshold_overlap_FINAL_STRICT.png,753120,0.718,04_outputs,.png,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/fig3_label_threshold_overlap_FINAL_STRICT.svg,80800,0.077,04_outputs,.svg,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/fig4_error_reliability_map_FINAL_STRICT.pdf,50679,0.048,04_outputs,.pdf,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/fig4_error_reliability_map_FINAL_STRICT.png,590303,0.563,04_outputs,.png,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/fig4_error_reliability_map_FINAL_STRICT.svg,58696,0.056,04_outputs,.svg,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/fig5_application_screening_FINAL_STRICT.pdf,61481,0.059,04_outputs,.pdf,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/fig5_application_screening_FINAL_STRICT.png,563396,0.537,04_outputs,.png,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/fig5_application_screening_FINAL_STRICT.svg,45050,0.043,04_outputs,.svg,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/fig7_importance_screening_FINAL_STRICT.pdf,56482,0.054,04_outputs,.pdf,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/fig7_importance_screening_FINAL_STRICT.png,503013,0.48,04_outputs,.png,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/04_main_figures_FINAL_STRICT/fig7_importance_screening_FINAL_STRICT.svg,30983,0.03,04_outputs,.svg,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS13_signed_error_deciles.pdf,28487,0.027,04_outputs,.pdf,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS13_signed_error_deciles.png,215994,0.206,04_outputs,.png,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS13_signed_error_deciles.svg,36984,0.035,04_outputs,.svg,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS14_application_expanded_shortlist.pdf,88500,0.084,04_outputs,.pdf,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS14_application_expanded_shortlist.png,772812,0.737,04_outputs,.png,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS14_application_expanded_shortlist.svg,207920,0.198,04_outputs,.svg,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS14_application_screening.pdf,62703,0.06,04_outputs,.pdf,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS14_application_screening.png,382981,0.365,04_outputs,.png,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS14_application_screening.svg,106160,0.101,04_outputs,.svg,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS14_fast_application_screening.pdf,62703,0.06,04_outputs,.pdf,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS14_fast_application_screening.png,382981,0.365,04_outputs,.png,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS14_fast_application_screening.svg,106160,0.101,04_outputs,.svg,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS1_missingness_ASR.pdf,32336,0.031,04_outputs,.pdf,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS1_missingness_ASR.png,181895,0.173,04_outputs,.png,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS1_missingness_ASR.svg,50812,0.048,04_outputs,.svg,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS2_missingness_FSR.pdf,32325,0.031,04_outputs,.pdf,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS2_missingness_FSR.png,184225,0.176,04_outputs,.png,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS2_missingness_FSR.svg,50935,0.049,04_outputs,.svg,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS3_missingness_ION.pdf,32016,0.031,04_outputs,.pdf,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS3_missingness_ION.png,177538,0.169,04_outputs,.png,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS3_missingness_ION.svg,50320,0.048,04_outputs,.svg,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS7_expanded_descriptor_sufficiency.pdf,42487,0.041,04_outputs,.pdf,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS7_expanded_descriptor_sufficiency.png,191212,0.182,04_outputs,.png,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS7_expanded_descriptor_sufficiency.svg,64260,0.061,04_outputs,.svg,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS8_model_comparison_regimeD.pdf,63293,0.06,04_outputs,.pdf,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS8_model_comparison_regimeD.png,248890,0.237,04_outputs,.png,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/05_si_figures/figS8_model_comparison_regimeD.svg,89482,0.085,04_outputs,.svg,optional-do-not-upload-main-branch,"generated manuscript figures; better regenerated locally or released separately, not core repo"
+04_outputs/FINAL_FOR_REVISION/06_source_data_for_figures/all_aggregated_results_for_figures.csv,116918,0.112,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/06_source_data_for_figures/fig2_summary_source.csv,116918,0.112,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/06_source_data_for_figures/fig3_descriptor_correlation_source.csv,1011,0.001,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/06_source_data_for_figures/fig4_grouped_penalty_source.csv,582,0.001,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/06_source_data_for_figures/fig5_application_summary_source.csv,1939,0.002,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/06_source_data_for_figures/fig5_coverage_map_source.csv,1645342,1.569,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/06_source_data_for_figures/figS14_chemistry_class_support_source.csv,78730,0.075,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/06_source_data_for_figures/figS14_coverage_category_counts_source.csv,525,0.001,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/06_source_data_for_figures/figS14_metal_category_heatmap_source.csv,619,0.001,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/06_source_data_for_figures/figure2_table3_best_regimeD_source.csv,2895,0.003,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/07_quality_control/MISSING_FIG6_CASE_STUDIES.txt,451,0.0,04_outputs,.txt,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/07_quality_control/fig7_strict_v2_source_report.txt,1117,0.001,04_outputs,.txt,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/07_quality_control/figS14_application_expanded_QC.txt,390,0.0,04_outputs,.txt,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/07_quality_control/final_cleaned_main_figures_report.txt,497,0.0,04_outputs,.txt,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/07_quality_control/final_qc_report.txt,1107,0.001,04_outputs,.txt,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/07_quality_control/main_figure_strict_run_report.txt,550,0.001,04_outputs,.txt,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/FINAL_FOR_REVISION/07_quality_control/main_figure_strict_source_manifest.txt,3498,0.003,04_outputs,.txt,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/application_screening_outputs/v14_12089_coverage_map.csv,1658713,1.582,04_outputs,.csv,optional-release-not-main,"derived outputs; can be regenerated, include only in Zenodo/release if needed"
+04_outputs/application_screening_outputs/v14_12089_coverage_summary.csv,1939,0.002,04_outputs,.csv,optional-release-not-main,"derived outputs; can be regenerated, include only in Zenodo/release if needed"
+04_outputs/application_screening_outputs/v14_application_screening_report.txt,6799,0.006,04_outputs,.txt,optional-release-not-main,"derived outputs; can be regenerated, include only in Zenodo/release if needed"
+04_outputs/figures/main_text/fig2_descriptor_sufficiency.pdf,31813,0.03,04_outputs,.pdf,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/figures/main_text/fig3_descriptor_interdependence.pdf,55197,0.053,04_outputs,.pdf,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/figures/main_text/fig4_chemistry_regime_map.pdf,42649,0.041,04_outputs,.pdf,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/figures/main_text/fig5_practical_screening.pdf,49169,0.047,04_outputs,.pdf,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/figures/main_text/fig7_importance_screening.pdf,27880,0.027,04_outputs,.pdf,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/figures/supporting_information/figS1_missingness_ASR.pdf,21556,0.021,04_outputs,.pdf,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/figures/supporting_information/figS2_missingness_FSR.pdf,21546,0.021,04_outputs,.pdf,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/figures/supporting_information/figS3_missingness_ION.pdf,21312,0.02,04_outputs,.pdf,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/figures/supporting_information/figS4_descriptor_distributions.pdf,28596,0.027,04_outputs,.pdf,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/figures/supporting_information/figS5_metal_breakdown.pdf,24806,0.024,04_outputs,.pdf,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/figures/supporting_information/figS6_grouped_cv_details.pdf,33138,0.032,04_outputs,.pdf,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/figures/supporting_information/figS7_expanded_descriptor_sufficiency.pdf,43598,0.042,04_outputs,.pdf,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/figures/supporting_information/figS8_importance.pdf,20084,0.019,04_outputs,.pdf,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/figures/supporting_information/figS9_screening_subset.pdf,19855,0.019,04_outputs,.pdf,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/group_audit_outputs/01_group_summary_by_dataset_target.csv,6524,0.006,04_outputs,.csv,optional-release-not-main,"derived outputs; can be regenerated, include only in Zenodo/release if needed"
+04_outputs/group_audit_outputs/02_all_group_sizes_by_dataset_target.csv,129158,0.123,04_outputs,.csv,optional-release-not-main,"derived outputs; can be regenerated, include only in Zenodo/release if needed"
+04_outputs/group_audit_outputs/03_seed42_heldout_groups.csv,33344,0.032,04_outputs,.csv,optional-release-not-main,"derived outputs; can be regenerated, include only in Zenodo/release if needed"
+04_outputs/group_audit_outputs/04_seed42_train_test_row_counts.csv,2379,0.002,04_outputs,.csv,optional-release-not-main,"derived outputs; can be regenerated, include only in Zenodo/release if needed"
+04_outputs/group_audit_outputs/05_group_size_bins.csv,9763,0.009,04_outputs,.csv,optional-release-not-main,"derived outputs; can be regenerated, include only in Zenodo/release if needed"
+04_outputs/group_audit_outputs/06_group_audit_report.txt,15105,0.014,04_outputs,.txt,optional-release-not-main,"derived outputs; can be regenerated, include only in Zenodo/release if needed"
+04_outputs/phase1_diagnostics/diagnostics_drop_per_split.csv,2038,0.002,04_outputs,.csv,optional-release-not-main,"derived outputs; can be regenerated, include only in Zenodo/release if needed"
+04_outputs/phase1_diagnostics/diagnostics_paired_comparisons.csv,12721,0.012,04_outputs,.csv,optional-release-not-main,"derived outputs; can be regenerated, include only in Zenodo/release if needed"
+04_outputs/phase1_diagnostics/diagnostics_signed_errors.csv,711705,0.679,04_outputs,.csv,optional-release-not-main,"derived outputs; can be regenerated, include only in Zenodo/release if needed"
+04_outputs/phase1_diagnostics/diagnostics_summary.txt,2946,0.003,04_outputs,.txt,optional-release-not-main,"derived outputs; can be regenerated, include only in Zenodo/release if needed"
+04_outputs/phase1_diagnostics/diagnostics_uncertainty.csv,93981,0.09,04_outputs,.csv,optional-release-not-main,"derived outputs; can be regenerated, include only in Zenodo/release if needed"
+04_outputs/v14_hparams.csv,622889,0.594,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/v14_predictions.csv,105708761,100.812,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally; exceeds or approaches GitHub large-file limits
+04_outputs/v14_results.csv,84473,0.081,04_outputs,.csv,do-not-upload,large/generated intermediate output; regenerate locally
+04_outputs/v14_results_rebuilt.csv,625462,0.596,04_outputs,.csv,optional-release-not-main,"derived outputs; can be regenerated, include only in Zenodo/release if needed"
+05_historical/v0_original_workflow/.gitignore,496,0.0,05_historical,,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v0_original_workflow/CITATION.cff,431,0.0,05_historical,.cff,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v0_original_workflow/WORKFLOW_AND_OUTPUTS.md,2619,0.002,05_historical,.md,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v0_original_workflow/build_figS7.py,10347,0.01,05_historical,.py,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v0_original_workflow/figs.py,6642,0.006,05_historical,.py,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v0_original_workflow/project15_master_results_latest.pkl,63979604,61.016,05_historical,.pkl,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files; exceeds or approaches GitHub large-file limits
+05_historical/v0_original_workflow/project_figure_table_builder_revised_colab_Result_Generation_Cleaner.ipynb,105093,0.1,05_historical,.ipynb,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v0_original_workflow/project_stability_benchmark_colab_Workflow_Main.ipynb,3001305,2.862,05_historical,.ipynb,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/asr_clean.csv,1250199,1.192,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/asr_fsr_matched_pairs.csv,1202555,1.147,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/best_classification_rows.csv,1775,0.002,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/calibration_curve_data.csv,9744,0.009,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/chemistry_subgroup_performance.csv,80663,0.077,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/classification_hparams.csv,348747,0.333,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/classification_predictions.csv,74348887,70.905,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files; exceeds or approaches GitHub large-file limits
+05_historical/v10_outputs_tables/classification_results.csv,646399,0.616,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/classification_summary.csv,24964,0.024,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/coverage_curve_data.csv,13152,0.013,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/diagnostics_drop_per_split.csv,2038,0.002,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/diagnostics_paired_comparisons.csv,12721,0.012,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/diagnostics_signed_errors.csv,711705,0.679,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/diagnostics_summary.txt,2946,0.003,05_historical,.txt,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/diagnostics_uncertainty.csv,93981,0.09,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/diagnostics_wins_audit.csv,579,0.001,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/failure_cases_top50.csv,36172,0.034,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/fsr_clean.csv,803475,0.766,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/hyperparameter_grids.csv,1023,0.001,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/ion_clean.csv,67131,0.064,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/logs/v10_run_20260626_061941.log,3376,0.003,05_historical,.log,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/pair_consistency_summary.csv,230,0.0,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/permutation_importance.csv,14694,0.014,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/phase1_diagnostics.py,15420,0.015,05_historical,.py,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/regression_hparams.csv,296663,0.283,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/regression_predictions.csv,83601518,79.729,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files; exceeds or approaches GitHub large-file limits
+05_historical/v10_outputs_tables/regression_results.csv,468169,0.446,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/regression_summary.csv,24754,0.024,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/run_summary.json,874,0.001,05_historical,.json,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/shortlist_subset_performance.csv,1848,0.002,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_outputs_tables/transfer_results.csv,27895,0.027,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v10_workflow.py,45401,0.043,05_historical,.py,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v11.py,64382,0.061,05_historical,.py,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v11_outputs_partial/logs/v11_run_20260626_184508.log,790,0.001,05_historical,.log,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v11_outputs_partial/tables/asr_clean.csv,1250199,1.192,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v11_outputs_partial/tables/asr_fsr_matched_pairs.csv,1202555,1.147,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v11_outputs_partial/tables/fsr_clean.csv,803475,0.766,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v11_outputs_partial/tables/ion_clean.csv,67131,0.064,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v11_outputs_partial/tables/pair_consistency_summary.csv,230,0.0,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v11_outputs_partial/tables/regression_results.csv,157244,0.15,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v13_hparams.csv,73002,0.07,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v13_predictions.csv,8255369,7.873,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+05_historical/v13_results.csv,75287,0.072,05_historical,.csv,do-not-upload,deprecated/historical outputs; includes very large pkl/prediction files
+99_final_tools/README_RUN_THIS_FIRST.md,2670,0.003,99_final_tools,.md,upload,project code / reproducibility scripts
+99_final_tools/requirements_minimal.txt,52,0.0,99_final_tools,.txt,upload,project code / reproducibility scripts
+99_final_tools/run_all_final_package.bat,117,0.0,99_final_tools,.bat,upload,project code / reproducibility scripts
+99_final_tools/run_all_final_package.py,51295,0.049,99_final_tools,.py,upload,project code / reproducibility scripts
+99_final_tools_v2/README_RUN_THIS_FIRST_V2.md,1525,0.001,99_final_tools_v2,.md,upload,project code / reproducibility scripts
+99_final_tools_v2/make_fig3_label_threshold_overlap_v3.py,11699,0.011,99_final_tools_v2,.py,upload,project code / reproducibility scripts
+99_final_tools_v2/make_fig7_importance_screening_STRICT_v2.py,9806,0.009,99_final_tools_v2,.py,upload,project code / reproducibility scripts
+99_final_tools_v2/make_figS14_application_expanded.py,17854,0.017,99_final_tools_v2,.py,upload,project code / reproducibility scripts
+99_final_tools_v2/make_figS14_application_expanded_v2.py,17557,0.017,99_final_tools_v2,.py,upload,project code / reproducibility scripts
+99_final_tools_v2/make_final_cleaned_main_figures.py,44740,0.043,99_final_tools_v2,.py,upload,project code / reproducibility scripts
+99_final_tools_v2/make_final_main_figures_STRICT_v4.py,44914,0.043,99_final_tools_v2,.py,upload,project code / reproducibility scripts
+99_final_tools_v2/requirements_minimal.txt,43,0.0,99_final_tools_v2,.txt,upload,project code / reproducibility scripts
+99_final_tools_v2/run_all_final_package_v2.bat,69,0.0,99_final_tools_v2,.bat,upload,project code / reproducibility scripts
+99_final_tools_v2/run_all_final_package_v2.py,53998,0.051,99_final_tools_v2,.py,upload,project code / reproducibility scripts
+FRAMING_NOTES.md,41382,0.039,FRAMING_NOTES.md,.md,adapt-not-upload-verbatim,internal revision/handoff prose; useful for docs but contains internal names/stage language
+HOW_TO_RUN.md,13481,0.013,HOW_TO_RUN.md,.md,adapt-not-upload-verbatim,internal revision/handoff prose; useful for docs but contains internal names/stage language
+README_START_HERE.md,10155,0.01,README_START_HERE.md,.md,adapt-not-upload-verbatim,internal revision/handoff prose; useful for docs but contains internal names/stage language
+REFRAMING_MENU.md,18350,0.017,REFRAMING_MENU.md,.md,adapt-not-upload-verbatim,internal revision/handoff prose; useful for docs but contains internal names/stage language
