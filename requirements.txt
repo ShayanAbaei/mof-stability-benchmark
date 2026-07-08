@@ -7,3 +7,6 @@ seaborn
 lightgbm
 optuna
 joblib
+openpyxl
+jupyter
+notebook
