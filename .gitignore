@@ -1,36 +1,50 @@
-# Raw external data
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Local raw data and generated outputs
+02_raw_data/
 raw_data/
-ASR_data_SI_20250204.csv
-FSR_data_SI_20250204.csv
-ION_data_SI_20250204.csv
-ASR_FSR_check.csv
-12089-recommended-screening-list.csv
-
-# Generated outputs
-project15_outputs/
+data/raw/
+04_outputs/
 outputs/
+results/
 figures/
-tables/
-logs/
-run_summary.json
 
-# Intermediate binary results
-checkpoints/
-project_master_results_latest.pkl
+# Large artifacts
 *.pkl
 *.pickle
+*.joblib
+*.h5
+*.hdf5
+*.parquet
+*.feather
+*.7z
+*.zip
+*.tar
+*.gz
 
-# Notebook / Python cache
-__pycache__/
-.ipynb_checkpoints/
-*.pyc
+# Large prediction tables / logs
+*v14_predictions*.csv
+*predictions*.csv
+*.log
+logs/
 
-# Office / temp files
-~$*.docx
-Thumbs.db
+# Manuscript build artifacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# OS/editor
 .DS_Store
-
-# IDE
-.vscode/
-.idea/
-.spyproject/
+Thumbs.db
+*.swp
