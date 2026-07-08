@@ -8,6 +8,11 @@ dependencies:
   - scipy
   - scikit-learn
   - matplotlib
+  - seaborn
+  - lightgbm
+  - optuna
+  - joblib
   - openpyxl
   - jupyter
   - notebook
+  - pip
